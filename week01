@@ -1,0 +1,2 @@
+
+return errors.Wrapf(xxxxx, fmt.Sprintf("sql: %s error: %v", sql, err))
